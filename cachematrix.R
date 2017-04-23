@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## makeCacheMatrix inputs an invertible matrix
 ## calculates the inverse of the matrix and caches it.
 
